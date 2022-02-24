@@ -1,3 +1,3 @@
 function saludar() {
-  alert("Chau mundoooooooooooooooooooooooooooooooooooooooooooooooooooooo");
+  alert("Chau mundo");
 }
